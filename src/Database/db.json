@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Ahsan Rana",
+      "username": "ahsanrana@gmail.com",
+      "email": "Hello, world",
+      "phone": "235645",
+      "id": "1"
+    },
+    {
+      "name": "Ashar Chauhan",
+      "username": "ashar",
+      "email": "ashar@gmail.com",
+      "phone": "56478958",
+      "id": "rQm8usM"
+    },
+    {
+      "name": "Subhan Khan",
+      "username": "subhan464646",
+      "email": "subhan@yahoo.com",
+      "phone": "564789123",
+      "id": "WEKCY-V"
+    }
+  ]
+}
